@@ -1,0 +1,5 @@
+pymupdf
+faiss-cpu
+sentence-transformers
+langchain
+google-generativeai
